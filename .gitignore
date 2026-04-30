@@ -1,0 +1,17 @@
+# Env files — never commit real values
+.env
+.env.local
+**/.env
+**/.env.local
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
